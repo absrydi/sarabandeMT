@@ -1,0 +1,19 @@
+All voice source listed below:
+
+piano		: Windows General Midi
+harpsichord	: Windows General Midi
+toypiano	: Windows General Midi
+montre_org	: Jeux 14 Soundfont
+gedackt_org	: Jeux 14 Soundfont
+principal_org	: Jeux 14 Soundfont
+sine		: A.B. Suryadi
+smoothy		: Florestan Basic GM Soundfont
+sparkle		: Florestan Basic GM Soundfont
+rhodes		: SHS-10 Soundfont
+(index 11-17)	: Florestan Basic GM Soundfont
+
+NOTE:
+	I do not own all of the voices listed above.
+	All of the voices above are owned by the respective owner.
+	The use of those sounds are just for demonstration and
+	educational purpose.

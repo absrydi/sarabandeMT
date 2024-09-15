@@ -1,0 +1,519 @@
+time 6
+tempo 200
+tuning 12tet
+transpose 2
+
+setvar gedackt 7
+
+## D = do, M.M. = 200, 6/4 - "THE MAGIC OF THE FIFTH"
+## SERVIAM - A. B. SURYADI, arranged 12 Ags 2024 22:07
+
+next 6
+
+## INTRO
+
+note g3 6 gv gedackt
+note c4 6 gv gedackt
+note d#4 6 gv gedackt
+
+note g2 6 gv gedackt
+
+next 6
+
+note g3 6 gv gedackt
+note a#3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 6 gv gedackt
+
+next 6
+
+note gb3 6 gv gedackt
+note a3 6 gv gedackt
+note d4 6 gv gedackt
+
+note gb2 6 gv gedackt
+
+next 6
+
+note g3 6 gv gedackt
+note b3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 6 gv gedackt
+
+next 6
+
+## SECT 1
+
+note g3 6 gv gedackt
+note c4 6 gv gedackt
+note d#4 6 gv gedackt
+
+note g2 3 gv gedackt
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+note d#5 1 gv gedackt
+next 1
+
+note c3 3 gv gedackt
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+note c5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note a#3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 3 gv gedackt
+note a#4 1 gv gedackt
+next 1
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+
+note a#2 3 gv gedackt
+note g4 1 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+
+
+
+note gb3 6 gv gedackt
+note a3 6 gv gedackt
+note d4 6 gv gedackt
+
+note gb2 3 gv gedackt
+note gb4 1 gv gedackt
+next 1
+note g4 1 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+
+note a2 3 gv gedackt
+note d4 1 gv gedackt
+next 1
+note e4 1 gv gedackt
+next 1
+note f#4 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note b3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 3 gv gedackt
+note g4 2 gv gedackt
+next 2
+note g4 1 gv gedackt
+next 1
+
+note g2 3 gv gedackt
+note g4 2.5 gv gedackt
+next 3
+
+## REPEAT
+
+note g3 6 gv gedackt
+note c4 6 gv gedackt
+note d#4 6 gv gedackt
+
+note g2 3 gv gedackt
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+note d#5 1 gv gedackt
+next 1
+
+note d#3 3 gv gedackt
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+note c5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note a#3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 3 gv gedackt
+note a#4 1 gv gedackt
+next 1
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+
+note d3 3 gv gedackt
+note g4 1 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+
+
+
+note gb3 6 gv gedackt
+note a3 6 gv gedackt
+note d4 6 gv gedackt
+
+note gb2 3 gv gedackt
+note gb4 1 gv gedackt
+next 1
+note g4 1 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+
+note d3 3 gv gedackt
+note d4 1 gv gedackt
+next 1
+note e4 1 gv gedackt
+next 1
+note f#4 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note b3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 3 gv gedackt
+note g4 2 gv gedackt
+next 2
+note g4 1 gv gedackt
+next 1
+
+note g2 3 gv gedackt
+note g4 2.5 gv gedackt
+next 3
+
+## SECT 2
+
+note g3 6 gv gedackt
+note c4 6 gv gedackt
+note d#4 6 gv gedackt
+
+note g2 3 gv gedackt
+next 1
+note d#5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+
+note c3 2 gv gedackt
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+note d#3 1 gv gedackt
+note d#5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note a#3 6 gv gedackt
+note d4 6 gv gedackt
+
+note d3 3 gv gedackt
+note d5 2 gv gedackt
+next 2
+note a#4 1 gv gedackt
+next 1
+
+note a#2 2 gv gedackt
+note d5 3 gv gedackt
+next 2
+note d2 1 gv gedackt
+next 1
+
+
+
+note gb3 6 gv gedackt
+note a3 6 gv gedackt
+note d4 6 gv gedackt
+
+note c3 3 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+
+note a2 2 gv gedackt
+note c5 1 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+note a#2 1 gv gedackt
+note c5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note b3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 6 gv gedackt
+note d5 2 gv gedackt
+next 2
+note d5 1 gv gedackt
+next 1
+
+note d5 2.5 gv gedackt
+next 3
+
+## REPEAT, DIFFERENT END
+
+note g3 6 gv gedackt
+note c4 6 gv gedackt
+note d#4 6 gv gedackt
+
+note g2 3 gv gedackt
+next 1
+note d#5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+
+note c3 2 gv gedackt
+note c5 1 gv gedackt
+next 1
+note d5 1 gv gedackt
+next 1
+note d#3 1 gv gedackt
+note d#5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note a#3 6 gv gedackt
+note d4 6 gv gedackt
+
+note d3 3 gv gedackt
+note d5 2 gv gedackt
+next 2
+note g5 1 gv gedackt
+next 1
+
+note a#2 2 gv gedackt
+note g5 3 gv gedackt
+next 2
+note d3 1 gv gedackt
+next 1
+
+
+
+note gb3 6 gv gedackt
+note a3 6 gv gedackt
+note d4 6 gv gedackt
+
+note c3 3 gv gedackt
+next 1
+note a4 1 gv gedackt
+next 1
+note a#4 1 gv gedackt
+next 1
+
+note a2 2 gv gedackt
+note c5 1 gv gedackt
+next 1
+note d#5 1 gv gedackt
+next 1
+note a#2 1 gv gedackt
+note d5 1 gv gedackt
+next 1
+
+
+
+note g3 6 gv gedackt
+note b3 6 gv gedackt
+note d4 6 gv gedackt
+
+note g2 6 gv gedackt
+note g5 2 gv gedackt
+next 2
+note g5 1 gv gedackt
+next 1
+
+note g5 2.5 gv gedackt
+next 3
+
+## ENDING
+
+note c4 1 gv gedackt
+note d#5 5 gv gedackt
+next 1
+note d4 1 gv gedackt
+next 1
+note d#4 1 gv gedackt
+next 1
+
+note a3 1 gv gedackt
+next 1
+note a#3 1 gv gedackt
+next 1
+note c4 1 gv gedackt
+note d5 0.5 gv gedackt
+next 0.5
+note c5 0.5 gv gedackt
+next 0.5
+
+
+
+note a#3 1 gv gedackt
+note d5 2 gv gedackt
+next 1
+note c4 1 gv gedackt
+next 1
+note d4 1 gv gedackt
+note g5 1 gv gedackt
+next 1
+
+note g3 1 gv gedackt
+note a#4 3 gv gedackt
+next 1
+note a3 1 gv gedackt
+next 1
+note a#3 1 gv gedackt
+next 1
+
+
+
+note gb3 1 gv gedackt
+note c5 5 gv gedackt
+next 1
+note g3 1 gv gedackt
+next 1
+note a3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+note e3 1 gv gedackt
+next 1
+note f#3 1 gv gedackt
+note a#4 0.5 gv gedackt
+next 0.5
+note a4 0.5 gv gedackt
+next 0.5
+
+
+
+note g3 2 gv gedackt
+note a#4 2 gv gedackt
+next 2
+note g3 1 gv gedackt
+note a4 1 gv gedackt
+next 1
+
+note g3 2.5 gv gedackt
+note g4 2 gv gedackt
+next 3
+
+## REPEAT
+
+note g2 3 gv gedackt
+note c4 1 gv gedackt
+note d#5 5 gv gedackt
+next 1
+note d4 1 gv gedackt
+next 1
+note d#4 1 gv gedackt
+next 1
+
+note c3 3 gv gedackt
+note a3 1 gv gedackt
+next 1
+note a#3 1 gv gedackt
+next 1
+note c4 1 gv gedackt
+note d5 0.5 gv gedackt
+next 0.5
+note c5 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 3 gv gedackt
+note a#3 1 gv gedackt
+note d5 2 gv gedackt
+next 1
+note c4 1 gv gedackt
+next 1
+note d4 1 gv gedackt
+note g5 1 gv gedackt
+next 1
+
+note a#2 3 gv gedackt
+note g3 1 gv gedackt
+note a#4 3 gv gedackt
+next 1
+note a3 1 gv gedackt
+next 1
+note a#3 1 gv gedackt
+next 1
+
+
+
+note gb2 3 gv gedackt
+note gb3 1 gv gedackt
+note d5 3 gv gedackt
+next 1
+note g3 1 gv gedackt
+next 1
+note a3 1 gv gedackt
+next 1
+
+note a2 3 gv gedackt
+note d3 1 gv gedackt
+note f#5 2 gv gedackt
+next 1
+note e3 1 gv gedackt
+next 1
+note f#3 1 gv gedackt
+note e5 0.5 gv gedackt
+next 0.5
+note f#5 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 2 gv gedackt
+note g3 2 gv gedackt
+note g5 2 gv gedackt
+next 2
+note d3 1 gv gedackt
+note g5 1 gv gedackt
+next 1
+
+note g2 2.5 gv gedackt
+note g5 2 gv gedackt
+next 3
+
+## ORIGINAL ENDING: VOICE 1 AND VOICE 2 POLYRITHM (4:6), CONVERTED TO 6/4 (SOFTWARE LIMITATION)
+
+end

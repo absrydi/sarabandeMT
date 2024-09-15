@@ -1,0 +1,666 @@
+time 4
+tempo 130
+tuning 12tet
+transpose 7
+
+setvar montre 7
+setvar gedackt 9
+
+## PASSACAGLIA - G. F. HAENDEL
+
+next 4
+
+## Section 1
+
+note a2 4 gv gedackt
+note c3 4 gv gedackt
+note e3 4 gv gedackt
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note a2 4 gv gedackt
+note d3 4 gv gedackt
+note f3 4 gv gedackt
+
+note f4 1.5 gv gedackt
+next 1.5
+
+note f4 0.5 gv gedackt
+next 0.5
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note f4 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 4 gv gedackt
+note b2 4 gv gedackt
+note d3 4 gv gedackt
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note g4 0.5 gv gedackt
+next 0.5
+
+note f4 1.5 gv gedackt
+next 1.5
+
+note g4 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 4 gv gedackt
+note c3 4 gv gedackt
+note e3 4 gv gedackt
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note f2 4 gv gedackt
+note a2 4 gv gedackt
+note c3 4 gv gedackt
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note c4 0.5 gv gedackt
+next 0.5
+
+note b3 1.5 gv gedackt
+next 1.5
+
+note c4 0.5 gv gedackt
+next 0.5
+
+
+
+note f2 4 gv gedackt
+note b2 4 gv gedackt
+note d3 4 gv gedackt
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+
+
+note e2 4 gv gedackt
+note g#2 4 gv gedackt
+note b2 4 gv gedackt
+
+note b3 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note e2 4 gv gedackt
+note a2 4 gv gedackt
+note c2 4 gv gedackt
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note b3 0.5 gv gedackt
+next 0.5
+
+note a3 2 gv gedackt
+next 2
+
+## Repeat
+
+note a2 4 gv gedackt
+note c3 4 gv gedackt
+note e3 4 gv gedackt
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note a2 4 gv gedackt
+note d3 4 gv gedackt
+note f3 4 gv gedackt
+
+note f4 1.5 gv gedackt
+next 1.5
+
+note f4 0.5 gv gedackt
+next 0.5
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note f4 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 4 gv gedackt
+note b2 4 gv gedackt
+note d3 4 gv gedackt
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note g4 0.5 gv gedackt
+next 0.5
+
+note f4 1.5 gv gedackt
+next 1.5
+
+note g4 0.5 gv gedackt
+next 0.5
+
+
+
+note g2 4 gv gedackt
+note c3 4 gv gedackt
+note e3 4 gv gedackt
+
+note e4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note f2 4 gv gedackt
+note a2 4 gv gedackt
+note c3 4 gv gedackt
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note c4 0.5 gv gedackt
+next 0.5
+
+note b3 1.5 gv gedackt
+next 1.5
+
+note c4 0.5 gv gedackt
+next 0.5
+
+
+
+note f2 4 gv gedackt
+note b2 4 gv gedackt
+note d3 4 gv gedackt
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note d4 0.5 gv gedackt
+next 0.5
+
+
+
+note e2 4 gv gedackt
+note g#2 4 gv gedackt
+note b2 4 gv gedackt
+
+note b3 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+note d4 1.5 gv gedackt
+next 1.5
+
+note e4 0.5 gv gedackt
+next 0.5
+
+
+
+note e2 4 gv gedackt
+note a2 4 gv gedackt
+note c2 4 gv gedackt
+
+note c4 1.5 gv gedackt
+next 1.5
+
+note b3 0.5 gv gedackt
+next 0.5
+
+note a3 2 gv gedackt
+next 2
+
+## Section 2
+
+note a3 3 gv gedackt
+note c4 3 gv gedackt
+note e4 3 gv gedackt
+
+note a2 1 gv gedackt
+next 1
+
+note g2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note a3 1 gv gedackt
+note c4 1 gv gedackt
+note e4 1 gv gedackt
+
+note e2 1 gv gedackt
+next 1
+
+
+
+note a3 3 gv gedackt
+note d4 3 gv gedackt
+note f4 3 gv gedackt
+
+note d2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note a3 1 gv gedackt
+note d4 1 gv gedackt
+note f4 1 gv gedackt
+
+note d2 1 gv gedackt
+next 1
+
+
+
+note g3 3 gv gedackt
+note b3 3 gv gedackt
+note d4 3 gv gedackt
+
+note g2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note g3 1 gv gedackt
+note b3 1 gv gedackt
+note d4 1 gv gedackt
+
+note d2 1 gv gedackt
+next 1
+
+
+
+note g3 3 gv gedackt
+note c4 3 gv gedackt
+note e4 3 gv gedackt
+
+note c2 1 gv gedackt
+next 1
+
+note d2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note g3 1 gv gedackt
+note c4 1 gv gedackt
+note e4 1 gv gedackt
+
+note c2 1 gv gedackt
+next 1
+
+
+
+note f3 3 gv gedackt
+note a3 3 gv gedackt
+note c4 3 gv gedackt
+
+note f3 1 gv gedackt
+next 1
+
+note e3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note f3 1 gv gedackt
+note a3 1 gv gedackt
+note c4 1 gv gedackt
+
+note c3 1 gv gedackt
+next 1
+
+
+
+note f3 3 gv gedackt
+note b3 3 gv gedackt
+note d4 3 gv gedackt
+
+note b2 1 gv gedackt
+next 1
+
+note c3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note f3 1 gv gedackt
+note b3 1 gv gedackt
+note d4 1 gv gedackt
+
+note b2 1 gv gedackt
+next 1
+
+
+
+note e3 3 gv gedackt
+note g#3 3 gv gedackt
+note b3 3 gv gedackt
+
+note e3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note c3 1 gv gedackt
+next 1
+
+note e3 1 gv gedackt
+note g#3 1 gv gedackt
+note b3 1 gv gedackt
+
+note b2 1 gv gedackt
+next 1
+
+
+
+note e3 4 gv gedackt
+note a3 4 gv gedackt
+note c3 4 gv gedackt
+
+note a2 4 gv gedackt
+next 4
+
+## Repeat
+
+note a3 3 gv gedackt
+note c4 3 gv gedackt
+note e4 3 gv gedackt
+
+note a4 3 gv montre
+note c4 3 gv montre
+
+note a2 1 gv gedackt
+next 1
+
+note g2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note a3 1 gv gedackt
+note c4 1 gv gedackt
+note e4 1 gv gedackt
+
+note a4 1 gv montre
+note c4 1 gv montre
+
+note e2 1 gv gedackt
+next 1
+
+
+
+note a3 3 gv gedackt
+note d4 3 gv gedackt
+note f4 3 gv gedackt
+
+note a4 3 gv montre
+note d4 3 gv montre
+
+note d2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note a3 1 gv gedackt
+note d4 1 gv gedackt
+note f4 1 gv gedackt
+
+note a4 1 gv montre
+note d4 1 gv montre
+
+note d2 1 gv gedackt
+next 1
+
+
+
+note g3 3 gv gedackt
+note b3 3 gv gedackt
+note d4 3 gv gedackt
+
+note g4 3 gv montre
+note b4 3 gv montre
+
+note g2 1 gv gedackt
+next 1
+
+note f2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note g3 1 gv gedackt
+note b3 1 gv gedackt
+note d4 1 gv gedackt
+
+note g4 1 gv montre
+note b4 1 gv montre
+
+note d2 1 gv gedackt
+next 1
+
+
+
+note g3 3 gv gedackt
+note c4 3 gv gedackt
+note e4 3 gv gedackt
+
+note g4 3 gv montre
+note c4 3 gv montre
+
+note c2 1 gv gedackt
+next 1
+
+note d2 1 gv gedackt
+next 1
+
+note e2 1 gv gedackt
+next 1
+
+note g3 1 gv gedackt
+note c4 1 gv gedackt
+note e4 1 gv gedackt
+
+note g4 1 gv montre
+note c4 1 gv montre
+
+note c2 1 gv gedackt
+next 1
+
+
+
+note f3 3 gv gedackt
+note a3 3 gv gedackt
+note c4 3 gv gedackt
+
+note f4 3 gv montre
+note a4 3 gv montre
+
+note f3 1 gv gedackt
+next 1
+
+note e3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note f3 1 gv gedackt
+note a3 1 gv gedackt
+note c4 1 gv gedackt
+
+note f4 1 gv montre
+note a4 1 gv montre
+
+note c3 1 gv gedackt
+next 1
+
+
+
+note f3 3 gv gedackt
+note b3 3 gv gedackt
+note d4 3 gv gedackt
+
+note f4 3 gv montre
+note b4 3 gv montre
+
+note b2 1 gv gedackt
+next 1
+
+note c3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note f3 1 gv gedackt
+note b3 1 gv gedackt
+note d4 1 gv gedackt
+
+note f4 1 gv montre
+note b4 1 gv montre
+
+note b2 1 gv gedackt
+next 1
+
+
+
+note e3 3 gv gedackt
+note g#3 3 gv gedackt
+note b3 3 gv gedackt
+
+note e4 3 gv montre
+note g#4 3 gv montre
+
+note e3 1 gv gedackt
+next 1
+
+note d3 1 gv gedackt
+next 1
+
+note c3 1 gv gedackt
+next 1
+
+note e3 1 gv gedackt
+note g#3 1 gv gedackt
+note b3 1 gv gedackt
+
+note e4 1 gv montre
+note g#4 1 gv montre
+
+note b2 1 gv gedackt
+next 1
+
+
+
+note e3 4 gv gedackt
+note a3 4 gv gedackt
+note c3 4 gv gedackt
+
+note e4 4 gv montre
+note a4 4 gv montre
+
+note a2 4 gv gedackt
+next 4
+
+end

@@ -1,0 +1,163 @@
+time 4
+tempo 125
+tuning 12tet
+
+setvar vcs 8
+
+## IBU KITA KARTINI - W. R. SOEPRATMAN
+
+next 4
+
+note c4 1.5 gv vcs
+next 1.5
+note d4 0.5 gv vcs 
+next 0.5
+note e4 1 gv vcs 
+next 1
+note f4 1 gv vcs
+next 1
+
+
+
+note g4 1.5 gv vcs
+next 1.5
+note e4 0.5 gv vcs
+next 0.5
+note c4 2 gv vcs
+next 2
+
+
+
+note a4 1.5 gv vcs
+next 1.5
+note c5 0.5 gv vcs
+next 0.5
+note b4 1 gv vcs
+next 1
+note a4 1 gv vcs
+next 1
+
+
+
+note g4 4 gv vcs
+next 4
+
+
+
+note f4 1.5 gv vcs
+next 1.5
+note a4 0.5 gv vcs
+next 0.5
+note g4 1 gv vcs
+next 1
+note f4 1 gv vcs
+next 1
+
+
+
+note e4 2 gv vcs
+next 2
+note c4 2 gv vcs
+next 2
+
+
+
+note d4 1.5 gv vcs
+next 1.5
+note f4 0.5 gv vcs
+next 0.5
+note e4 1 gv vcs
+next 1
+note d4 1 gv vcs
+next 1
+
+
+
+note c4 4 gv vcs
+next 4
+
+## REFRAIN
+
+note f4 1.5 gv vcs
+next 1.5
+note e4 0.5 gv vcs
+next 0.5
+note f4 1 gv vcs
+next 1
+note a4 1 gv vcs
+next 1
+
+
+
+note g4 0.5 gv vcs
+next 0.5
+note a4 0.5 gv vcs
+next 0.5
+note g4 0.5 gv vcs
+next 0.5
+note e4 0.5 gv vcs
+next 0.5
+note c4 1 gv vcs
+next 1
+note e4 1 gv vcs
+next 1
+
+
+
+note d4 1 gv vcs
+next 1
+note e4 1 gv vcs
+next 1
+note f4 1 gv vcs
+next 1
+note g4 1 gv vcs
+next 1
+
+
+
+note e4 4 gv vcs
+next 4
+
+## REPEAT 2
+
+note f4 1.5 gv vcs
+next 1.5
+note e4 0.5 gv vcs
+next 0.5
+note f4 1 gv vcs
+next 1
+note a4 1 gv vcs
+next 1
+
+
+
+note g4 0.5 gv vcs
+next 0.5
+note a4 0.5 gv vcs
+next 0.5
+note g4 0.5 gv vcs
+next 0.5
+note e4 0.5 gv vcs
+next 0.5
+note c4 1 gv vcs
+next 1
+note e4 1 gv vcs
+next 1
+
+
+
+note d4 1 gv vcs
+next 1
+note f4 1 gv vcs
+next 1
+note b3 1 gv vcs
+next 1
+note d4 1 gv vcs
+next 1
+
+
+
+note c4 4 gv vcs
+next 4
+
+end
